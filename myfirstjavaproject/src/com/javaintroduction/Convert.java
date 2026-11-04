@@ -22,9 +22,6 @@ public class Convert {
 		System.out.println("int:"+b.i3);
 		System.out.println("int to char:"+b.c1);
 		
-		
-		
-
 	}
 
 }
