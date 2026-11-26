@@ -42,7 +42,7 @@ public class ElectricityBill {
 	System.out.println("bill:"+total_bill);
 		
 		
-		
+	sc.close();	
 
 	}
 }
